@@ -1,0 +1,50 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+*{
+    box-sizing: border-box;
+}
+body{
+  background-image: url(https://images.unsplash.com/photo-1452798991096-382940996d40?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGJ1cyUyMHN0b3B8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60);
+   background-size: cover;
+   font-family: poppins;
+   font-weight: bolder;
+   text-align: center;
+   background-repeat: no-repeat;
+}
+
+h1{
+    margin-top: 10px;
+    margin-bottom: 10px; 
+  color: white;
+}
+
+h2{
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 150px;
+  color:white;
+}
+
+button{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    font-family: inherit;
+}
+#increment-btn{
+    background-color: darkred;
+}
+#btn-save{
+    background-color: darkgreen;
+}
+#save-el{
+    font-size: 30px;
+  color: white;
+}
+
+ 
